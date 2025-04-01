@@ -11,14 +11,14 @@ Este repositorio contiene una página web desarrollada como práctica del curso 
 - Código comentado y estructurado
 
 ## Cómo usarlo
-1. Clona el repositorio
-2. Abre `index.html` en tu navegador
+1. Clona el **repositorio**
+2. Abre `index.html` en tu _navegador_
 3. Personalízalo a tu gusto
 
 ## Tecnologías utilizadas
 - HTML5
 - CSS3
 - JavaScript
-
+[Google](www.google.com.ar)
 ## Autor
 Pablo Fernando Melissari
