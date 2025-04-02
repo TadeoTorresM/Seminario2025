@@ -14,6 +14,7 @@ Este repositorio contiene una página web desarrollada como práctica del curso 
 1. Clona el **repositorio**
 2. Abre `index.html` en tu _navegador_
 3. Personalízalo a tu gusto
+[print("hola mundo")]
 
 ## Tecnologías utilizadas
 - HTML5
