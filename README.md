@@ -1,5 +1,5 @@
 # Seminario2025
-Repositorio para la cursada 2025
+Repositorio para la cursada 2025 editado por Tadeo 
 
 # Mi Proyecto Personal
 
@@ -14,7 +14,7 @@ Este repositorio contiene una página web desarrollada como práctica del curso 
 1. Clona el **repositorio**
 2. Abre `index.html` en tu _navegador_
 3. Personalízalo a tu gusto
-[print("hola mundo")]
+4. ```print("hola mundo")```
 
 ## Tecnologías utilizadas
 - HTML5
